@@ -1,0 +1,10 @@
+eda
+
+1. Loan to Value - Lower the better for the bank 
+2. Debt to Income
+3. Months Reserves
+4. Banking Relationship -- Primary Bank
+5. Refresh Credit Scores --
+6. Delinquency -- Metrics
+7. Utilization higher Deliquency less
+8. Deposit Trends
