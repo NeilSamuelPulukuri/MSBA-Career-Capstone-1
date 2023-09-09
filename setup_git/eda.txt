@@ -1,0 +1,6 @@
+eda
+
+1. Collinearity
+2. Null Values
+3. Impute values
+4. Plots
