@@ -8,4 +8,3 @@ eda
 6. Delinquency -- Metrics
 7. Utilization higher Deliquency less
 8. Deposit Trends
-9. Deal with null values
