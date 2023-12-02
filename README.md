@@ -25,9 +25,6 @@ Since the dataset was huge hyperparameter tuning for advance machine learning al
 ![image](https://github.com/NeilSamuelPulukuri/MSBA-Career-Capstone-1/assets/141296161/f08af6d1-e9ef-4226-b204-40e269b05be5)
 
 
-![image](https://github.com/NeilSamuelPulukuri/MSBA-Career-Capstone-1/assets/141296161/32e74f24-ae34-4dc5-af67-8674b263140d)
-
-
 
 
 ### Recomendations
