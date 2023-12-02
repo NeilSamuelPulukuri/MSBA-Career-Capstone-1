@@ -11,6 +11,9 @@ The objective is to identify the best-performing model based on Kaggle scores. W
 ## Group Contribution
 
 Abhiram Mannam - Abhiram was responsible for implementing Light Gradient Boosting, preparing a notebook write-up, and evaluating the models.
+
 Neil Samuel Pulukuri - Neil's tasks included data cleaning and modeling the Random Forest model to fit the dataset.
+
 Josh Hawley - Josh was in charge of implementing the XG Boost model and conducting hyperparameter tuning.
+
 Kushal Ram Tayi - Kushal's tasks included building the Logistic model, calculating the Variance Inflation Factor (VIF), and using penalized LASSO regression to address multicollinearity.
