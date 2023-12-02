@@ -26,7 +26,7 @@ Since the dataset was huge hyperparameter tuning for advance machine learning al
 2. The Region Population and region rating also seems to impact the default rate, so the institution should also take in account the region while give the loan to the individual.
 
 
-## Group Contribution
+### Group Contribution
 
 Abhiram Mannam - Abhiram was responsible for implementing Light Gradient Boosting, preparing a notebook write-up, and evaluating the models.
 
