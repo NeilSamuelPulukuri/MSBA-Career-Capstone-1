@@ -4,9 +4,6 @@
 
 ![image](https://github.com/NeilSamuelPulukuri/MSBA-Career-Capstone-1/assets/141296161/53e63d7d-db97-44c4-a7bb-7cec1c6f87b2)
 
-![](https://github.com/NeilSamuelPulukuri/MSBA-Career-Capstone-1/assets/141296161/53e63d7d-db97-44c4-a7bb-7cec1c6f87b2 | width=100)
-
-
 
 ### Business Problem
 
