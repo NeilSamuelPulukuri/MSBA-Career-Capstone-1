@@ -1,4 +1,4 @@
-# MSBA-Career-Capstone-1
+# MSBA-Career-Capstone
 
 ## Home Credit Default Risk
 
