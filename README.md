@@ -2,6 +2,9 @@
 
 ## Home Credit Default Risk
 
+![image](https://github.com/NeilSamuelPulukuri/MSBA-Career-Capstone-1/assets/141296161/53e63d7d-db97-44c4-a7bb-7cec1c6f87b2)
+
+
 ### Business Problem
 
 Many people struggle to get loans due to insufficient or non-existent credit histories. And, unfortunately, this population is often taken advantage of by untrustworthy lenders. Home Credit strives to broaden financial inclusion for the unbanked population by providing a positive and safe borrowing experience. To address this challenge, Home Credit leverages various sources of alternative data, such as telecom and transactional information, to predict their clients' repayment abilities.
