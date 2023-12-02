@@ -2,9 +2,6 @@
 
 ## Home Credit Default Risk
 
-![image](https://github.com/NeilSamuelPulukuri/MSBA-Career-Capstone-1/assets/141296161/53e63d7d-db97-44c4-a7bb-7cec1c6f87b2)
-![Description](https://raw.githubusercontent.com/NeilSamuelPulukuri/MSBA-Career-Capstone-1/main/assets/141296161/53e63d7d-db97-44c4-a7bb-7cec1c6f87b2){ width=200 }
-
 
 ### Business Problem
 
