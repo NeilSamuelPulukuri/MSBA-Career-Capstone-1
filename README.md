@@ -20,6 +20,12 @@ There is a significant class imbalance in the dataset, with a small number of de
 
 Since the dataset was huge hyperparameter tuning for advance machine learning algorithms like Random Forest, XG boost and Light Gradient boosting was problematic. So, we had to choose the correct set of parameters in the Grid Search this was achieved by setting one parameter constant and changing the other parameter to get the best ROC-AUC score.
 
+### Recomendations
+
+1. The financial institution should be cautious in giving loans to younger people with no credit history as they are more likely to default. Probably the best way to go about this is to ensure whether the individuals has an government id so that they can track the history of the candidate.
+2. The Region Population and region rating also seems to impact the default rate, so the institution should also take in account the region while give the loan to the individual.
+
+
 ## Group Contribution
 
 Abhiram Mannam - Abhiram was responsible for implementing Light Gradient Boosting, preparing a notebook write-up, and evaluating the models.
