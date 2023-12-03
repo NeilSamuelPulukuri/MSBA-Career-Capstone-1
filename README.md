@@ -23,7 +23,7 @@ Next we used this cleaned dataset for modelling a machine learning model which p
 
 ### Problems Encountered in the project
 
-There is a significant class imbalance in the dataset, with a small number of defaults compared to non-defaults. Addressing this imbalance is important as it can affect model training and evaluation strategies. So, we used imblearn library and under sampling technique to balance the target variable. We used downsampling for this dataset. 
+There is a significant class imbalance in the dataset, with a small number of defaults compared to non-defaults. This was a bit time consuming because we knew we had three solutions for the problem that is upsampling, downsampling and Smote Sampling and we had to choose one of the sampling methods. So we applied all three sampling methods and came to the conclusion that Downsampling was the best for this kind of dataset. 
 
 The dataset has also many null values and to determine how to impute null values was a challenge. We opted for Median imputation for the numerical variables since this imputation would be less effected by the outliers and used mode imputation for categorical variables. Also we decided to remove the columns which had more than 45 percentage null values.
 
