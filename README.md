@@ -30,7 +30,8 @@ Overall cleaning the dataset and hyperparameter tuning were the major hurdles we
 
 ### Important Features
 
-![image](https://github.com/NeilSamuelPulukuri/MSBA-Career-Capstone-1/assets/141296161/f08af6d1-e9ef-4226-b204-40e269b05be5)
+<img width="457" alt="image" src="https://github.com/NeilSamuelPulukuri/MSBA-Career-Capstone-1/assets/141296161/efdc24d5-c3b8-4956-b135-18e1291f90cd">
+
 
 ![image](https://github.com/NeilSamuelPulukuri/MSBA-Career-Capstone-1/assets/141296161/497aa640-f72f-4a07-a0bc-b7a977d33dfd)
 
