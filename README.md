@@ -2,7 +2,7 @@
 
 ## Home Credit Default Risk
 
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2Fanalytics-vidhya%2Fhome-credit-default-risk-part-1-business-understanding-data-cleaning-and-eda-1203913e979c&psig=AOvVaw0eDdUIx-ageWsD_2Z65Qv3&ust=1701658224932000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPDbz4Wh8oIDFQAAAAAdAAAAABAE
+url[https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2Fanalytics-vidhya%2Fhome-credit-default-risk-part-1-business-understanding-data-cleaning-and-eda-1203913e979c&psig=AOvVaw0eDdUIx-ageWsD_2Z65Qv3&ust=1701658224932000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPDbz4Wh8oIDFQAAAAAdAAAAABAE]
 
 
 ### Business Problem
