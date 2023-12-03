@@ -68,3 +68,10 @@ I was given the task of data cleaning and modelling the Random Forest model. Sin
 ### Conclusion
 Overall, the project was challenging as it had many datasets. It was a good exercise for me to put in all the MSBA skills that I developed accross the three semesters into practice starting from Exploratory Data Analysis, Statistics, Encoding, Cross Validation, HyperParameter Tuning, applying robust machine learning models and finally intepreting the results (Crisp DM Process) . Also I found this home credit dataset quite similiar to real world problem and completing this project has equipped me well enough to handle real world problems by applying machine learning algorithms which in the near future aligns to my personal goal that is to become an efficient data scientist. Apart from the technical aspect the idea of working in a team and collaborating well enough to get an optimized solution for the problem was a learning experience for me and to add up, our team had used google colab that enabled us to be on the same page while developing the machine learning code for the project Home Credit Default.
 
+
+### References 
+
+Link to the Dataset:
+[Home Credit Default Risk Kaggle Competition](https://www.kaggle.com/competitions/home-credit-default-risk/overview)
+
+
