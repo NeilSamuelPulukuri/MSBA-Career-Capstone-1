@@ -31,7 +31,7 @@ Since the dataset was huge hyperparameter tuning for advance machine learning al
 
 1. The financial institution should be cautious in giving loans to younger people with no credit history as they are more likely to default. Probably the best way to go about this is to ensure whether the individuals has an government id so that they can track the history of the candidate.
 2. The Region Population and region rating also seems to impact the default rate, so the institution should also take in account the region while give the loan to the individual.
-3. The financial institution can use the prediction model to know whether the customer is going to default or not.
+3. The financial institution can use the prediction model to know whether the customer is going to default or not thereby ensuring a better and accurate procedure of loan processing which would ultimately improve the efficiency of the financial institution in loan making decisions.
 
 
 ### Group Contribution
@@ -46,5 +46,5 @@ Kushal Ram Tayi - Kushal's tasks included building the Logistic model, calculati
 
 
 ### Conclusion
-Overall, the project was challenging as it had many datasets. It was a good exercise for me to put in all the MSBA skills that I developed accross the three semesters into practice starting from Exploratory Data Analysis, Encoding, Cross Validation, HyperParameter Tuning and applying robust machine learning models. Also I found this home credit dataset to be similiar to real world problem and completing this project has equipped me well enough to handle real world machine learing problems in the near future which aligns to my personal goal that is to become an efficient data scientist.
+Overall, the project was challenging as it had many datasets. It was a good exercise for me to put in all the MSBA skills that I developed accross the three semesters into practice starting from Exploratory Data Analysis, Encoding, Cross Validation, HyperParameter Tuning and applying robust machine learning models. Also I found this home credit dataset to be similiar to real world problem and completing this project has equipped me well enough to handle real world machine learing problems in the near future which aligns to my personal goal that is to become an efficient data scientist. Apart from the technical aspect the idea of working in a team and collaborating well enough to get an optimized solution for the problem was a learning experience for me and to add up, our team had used google colab that enabled us to be on the same page while developing the machine learning code for the project Home Credit Default.
 
