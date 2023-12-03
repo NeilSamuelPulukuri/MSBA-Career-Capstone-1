@@ -31,6 +31,7 @@ Since the dataset was huge hyperparameter tuning for advance machine learning al
 
 1. The financial institution should be cautious in giving loans to younger people with no credit history as they are more likely to default. Probably the best way to go about this is to ensure whether the individuals has an government id so that they can track the history of the candidate.
 2. The Region Population and region rating also seems to impact the default rate, so the institution should also take in account the region while give the loan to the individual.
+3. The financial institution can use the prediction model to know whether the customer is going to default or not.
 
 
 ### Group Contribution
