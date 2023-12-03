@@ -47,4 +47,3 @@ Kushal Ram Tayi - Kushal's tasks included building the Logistic model, calculati
 ### Conclusion
 Overall, the project was challenging as it had many datasets. It was a good exercise for me to put in all the MSBA skills that I developed accross the three semesters into practice starting from Exploratory Data Analysis, Encoding, Cross Validation, HyperParameter Tuning and applying robust machine learning models. Also I found this home credit dataset to be similiar to real world problem and completing this project has equipped me well enough to handle real world machine learing problems in the near future which aligns to my personal goal that is to become an efficient data scientist.
 
-[](Capstone-PPT.pptx)
