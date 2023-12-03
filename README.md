@@ -18,13 +18,21 @@ We first started with logistic regression model and got around 0.67 kaggle score
 
 There is a significant class imbalance in the dataset, with a small number of defaults compared to non-defaults. Addressing this imbalance is important as it can affect model training and evaluation strategies. So, we used imblearn library and under sampling technique to balance the target variable. We used downsampling for this dataset. 
 
-Since the dataset was huge hyperparameter tuning for advance machine learning algorithms like Random Forest, XG boost and Light Gradient boosting was problematic. So, we had to choose the correct set of parameters in the Grid Search this was achieved by setting one parameter constant and changing the other parameter to get the best ROC-AUC score.
+The dataset has also many null values and to determine how to impute null values was a challenge. We opted for Median imputation for the numerical variables since this imputation would be less effected by the outliers and mode imputation for categorical variables. Also we decided to remove the columns which had more than 45 percentage null values.
+
+Since the dataset was huge hyperparameter tuning for advance machine learning algorithms like Random Forest, XG boost and Light Gradient boosting was problematic. So, we had to choose the correct set of parameters in the Grid Search this was achieved by setting one parameter constant and varying the other parameters to get the best ROC-AUC score.
+
+Overall cleaning the dataset and hyperparameter tuning were the major hurdles we encountered in the project.
+
 
 ### Important Features
 
 ![image](https://github.com/NeilSamuelPulukuri/MSBA-Career-Capstone-1/assets/141296161/f08af6d1-e9ef-4226-b204-40e269b05be5)
 
+![image](https://github.com/NeilSamuelPulukuri/MSBA-Career-Capstone-1/assets/141296161/497aa640-f72f-4a07-a0bc-b7a977d33dfd)
 
+
+The above plot is a Feature importance plot of Light Gradient Boosting model which was the winning machine learining algorithm in our case. So based upon that plot and correlation values we can make some reccomendations to the financial institution that is Home Credit.
 
 
 ### Recomendations
@@ -43,6 +51,11 @@ Neil Samuel Pulukuri - Neil's tasks included data cleaning and modeling the Rand
 Josh Hawley - Josh was in charge of implementing the XG Boost model and conducting hyperparameter tuning.
 
 Kushal Ram Tayi - Kushal's tasks included building the Logistic model, calculating the Variance Inflation Factor (VIF), and using penalized LASSO regression to address multicollinearity.
+
+
+### Individual Contribution
+
+I was given the task of data cleaning and modelling the Random Forest model. Since the dataset was huge, the data cleaning took forever. I started off by checking the target variable to inspect for class imbalance and found out that there were more people who were less likely to default compared those who are more likely to default. Then I applied Downsampling to deal with the issue of class imbalance. Next was to remove the clumns with high percentage of null values and I removed those columns which had more than 45 % null values. Then came imputation where I used median to impute the null values for numerical columns and mode for categorical columns. Then I used One Hot encoding to convert the categorical columns to numerical columns. Then finally I ensured that the same steps are followed for the test data. Coming to modelling I was given the task for building a Random Forest Model. Well this was easy the only difficult rather time consuming part was hyper parameter tuning whcih took forever to run to get to know the best parameters through GridSearch. Overall I can say that data cleaning was tough and I also believe that it is the most time consuming part of a machine learning project.
 
 
 ### Conclusion
